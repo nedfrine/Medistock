@@ -1,0 +1,208 @@
+Acyclovir 200mg|0
+Acyclovir 400mg|0
+Actibile 800mg |0
+Aciloc 150mg|0
+Aciloc RD |0
+Adelphane esidrex |0
+Allercet|0
+Allegra |0
+cap Amox|0
+Cap Amox |0
+Tab Amox 125mg|0
+Tab Amox 250mg|0
+Ampiclox 250mg|0
+ampiclox 500mg|0
+Amoxclav 228mg|0
+Amoxclav 375mg|0
+Amoxclav 475mg |0
+Amoxclav 625mg|0
+Anxit 25mg|0
+Alphadopa 5mg|0
+A S A |0
+Avil |0
+Atorvastatin 10mg|0
+Azee 100mg |0
+Azee 250mg |0
+Azee 500mg|0
+Askazin |0
+Amitryn 10mg|0
+Atarax 10mg|0
+Atarax 25mg|0
+Althrocin 250mg|0
+Alcepro 500mg|0
+Asthalin 2mg |0
+Bandy |0
+Bandy plus |0
+Banocide |0
+Becozyme |0
+Biduret |0
+Blong A |0
+B long F |0
+Brufen 200mg|0
+Brufen 400mg|0
+Brufen 600mg|0
+Buscopan |0
+Calpol 125mg|0
+Calpol 250mg |0
+Calpol 500mg|0
+Calmpose 5 mg|0
+Carofit |0
+Cephlexin 125mg|0
+Cephlexin 250mg|0
+Cephlexin 500mg|0
+Cefadur 125mg |0
+Cefadur 250mg|0
+Cefadur 500mg|0
+Cefodrox+clav 250mg|0
+Cefodrox+clav 500mg|0
+Cefolac 100mg |0
+Cefolac 200mg|0
+Cefolac CV 200mg|0
+Cefolac XL 100mg|0
+Cefopod 100mg|0
+Cefopod 200mg|0
+Cefopod CV 325mg |0
+Cintigo |0
+Ciplactin |0
+Cifran oz |0
+Cifran |0
+Corbeta 10mg|0
+Corbeta 40mg|0
+Cyclopam |0
+Cycloreg |0
+Cystone |0
+Clingen forte|0
+Cremalex |0
+Claribid 250mg|0
+Claribid 500mg|0
+Coriminic |0
+Calciflavone |0
+Calcimex 250mg|0
+Calcimex 500mg |0
+Daonil |0
+Dart |0
+Deriphilin 100mg|0
+Deriphilin retard 150mg|0
+Deriphilin retard 300mg|0
+Deriphilin OD 300mg|0
+Deriphilin OD 450mg|0
+Defcort |0
+Dexona |0
+Domstal 5mg|0
+Domstal 10mg|0
+Doxinate |0
+Dulcolax |0
+Duphastone |0
+Duvodilan |0
+Duvodilan retard |0
+Doxy 1 |0
+Espumissan |0
+Evion 200mg|0
+Evion 400mg|0
+Evion LC |0
+Exib 90 |0
+Evecare |0
+Ebay 10mg|0
+Ebay 20mg|0
+Easyfud |0
+Feron |0
+Flagyl 200mg|0
+Flagyl 400mg|0
+Flavospas |0
+Folinz |0
+Follyhair |0
+Gasex |0
+Grandam |0
+Grenil |0
+Hemsyl 250mg|0
+Hemsyl 500mg|0
+Histin 8mg|0
+Histin 16mg|0
+Immunex |0
+Junior Lanzole 15mg|0
+Junior Lanzole 30mg|0
+Ketanov |0
+Lasix |0
+L triz |0
+Liv 52 |0
+Lukol |0
+Levoflox |0
+Lactodex 1 |0
+Lactodex 2 |0
+Lectodex HMF |0
+L montus 4mg|0
+L montus 5mg |0
+Lmontus 10mg|0
+Meftal forte|0
+Montelukast 10mg|0
+Meftal spas |0
+Meftal 100mg|0
+Meftal 250mg |0
+Meftal 500mg|0
+Metride |0
+M C B M |0
+Meprate |0
+Macox plus |0
+Macox ZH |0
+Mig F 5mg|0
+Mig F 10mg|0
+Maxeron |0
+Neurobion |0
+Neurobion forte |0
+Nexpro 20 |0
+Nexpro RD|0
+Nicardia 5mg|0
+Nicardia 10mg|0
+Norflox 400mg|0
+Nut B |0
+Oflox 100mg|0
+Oflox 200mg|0
+Oflox+ met |0
+Oflox ornidazole|0
+Omez |0
+Omez RD |0
+Ovral G |0
+Ovral L |0
+Omnacortil 5mg|0
+Omnacortil 10mg|0
+Orbone forte |0
+Pantop 20mg|0
+Pantop 40mg |0
+Periset 4mg|0
+Periset 8mg|0
+Pheno 30mg |0
+Pilex |0
+Piroxicam |0
+Rasbemec 20 |0
+Rabemec D |0
+Roxid 75mg|0
+Roxid 150mg |0
+Semidaonil|0
+Septilin |0
+Serenece |0
+Serax forte |0
+Shelcal C T |0
+Sorbitrate |0
+Stemetil |0
+Styplon |0
+Supradyn|0
+Solvin tab |0
+Tenomec |0
+Triz |0
+Thyronorm 25mg|0
+Thyronorm 50mg|0
+Thyronorm 100mg |0
+Urimax |0
+Vertin 16mg |0
+Vertin 8mg |0
+Voveran |0
+VIT A |0
+Vermisole |0
+Vertizac|0
+Zerdol |0
+Zerdol P |0
+Zerdol S |0
+Zerdol M R |0
+Zerodol100mg|0
+Zinovit |0
+Zytotec 20mg|0

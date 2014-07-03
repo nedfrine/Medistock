@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<title>Add | Inventory</title>
+		<meta name="description" content="">
+		<meta name="author" content="Ilya-Dorman" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/font-face.css">
+		<link rel="stylesheet" href="css/color-schemes/dark/ocean-blue.css">
+		<link rel="stylesheet" href="css/typography.css">
+		<link rel="stylesheet" href="css/font-awesome.css">
+		<link rel="stylesheet" href="css/main.css">
+		<script type="text/javascript" src="js/db.js"></script>
+		<script src="js/jquery-1.8.0.min.js">
+		<script>
+			document.cookie='resolution='+Math.max(screen.width,screen.height)+("devicePixelRatio" in window ? ","+devicePixelRatio : ",1")+'; path=/';
+		</script><!-- Responsive images -->
+		
+	</head>
+	<body onload="addDisplay();">
+		<!--[if lt IE 7]>
+			<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+		<![endif]-->
+
+		<div class="top-ribbon"></div>
+		<div class="home"><a href="index.html"><i class="icon-home"></i></a></div>
+
+
+		<header class="gallery-header">
+			<h1 class="entry-title-font">Update Stock In Inventory</h1>
+			<p class="meta-info-font">Update your medicine stock</p>
+			<p></p>
+		</header>
+<section>
+<form id="dataform">
+<input type="hidden" id ="sugd">
+<table id="addtable" cellspacing="0" summary="Add Stock Data">
+<caption>Add Medicines </caption>
+<tr>  
+  <th scope="col" abbr="Name">Drug Name</th>
+  <th scope="col" abbr="Stock">Quantity</th>		
+</tr>
+  </table>
+  
+  <p/>
+  <p/>
+  <p/>
+  <a id="addS" href='#' onclick="addMedStock();"> ADD</a>
+  <input type="file" id="import" value ="Import" name="files[]"/>  	  
+  <script>
+  function handleFileSelect(evt) {
+    var files = evt.target.files; // FileList object
+
+    // files is a FileList of File objects. List some properties.
+    var output = [];
+    var f= files[0];
+	if (f) {
+      var r = new FileReader();
+      r.onload = function(e) { 
+	      var contents = e.target.result;
+        importData(contents);
+      }
+      r.readAsText(f);
+    } else { 
+      alert("Failed to load file");
+    }
+  }
+
+  document.getElementById('import').addEventListener('change', handleFileSelect, false);
+</script>
+<H3><font color ="cyan">Update A Medicine Name</font></H3>
+<p>New medicine Name  <input type ="text" id="mname"></P>
+  <p>SLNO of medicine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <input type ="text" id="msno"></P>
+  <a id="upd" href='#' onclick="upName();"> Update</a>
+  
+  </form>
+  
+</section>
+		<footer class="site-footer site-footer-font">
+			<div class="sparator"></div>
+			<div class="contact">
+				<a href="mailto:nedfrinez@yahoo.com"><i class="icon-envelope-alt"></i> nedfrinez@yahoo.com</a> &middot;
+				<a href="http://www.facebook.com"><i class="icon-facebook-sign"></i> Nithin Ivan</a>
+			</div>
+		</footer>
+	</body>
+</html>
